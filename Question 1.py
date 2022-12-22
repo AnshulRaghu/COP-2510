@@ -1,5 +1,5 @@
-# Driver:    Christian Taylor          U-Number: U75799592       Participation percentage: 50%
-# Navigator: Anshul Raghuvanshi        U-Number: U69656337       Participation percentage: 50%
+# Driver:    Christian Taylor
+# Navigator: Anshul Raghuvanshi
 # This program allows us to update the attributes of a pet object given the user-inputted name, type and age.
 
 class Pet:
