@@ -1,5 +1,5 @@
-# Driver: Anshul Raghuvanshi           U-Number: U69656337
-# Navigator: Christian Taylor          U-Number: U75799592
+# Driver: Anshul Raghuvanshi
+# Navigator: Christian Taylor
 # This program is designed to take inputs from the user of two retail items they would like to add to their list.
 # The user will then provide details about the item such as the amount in stock and its price.
 # After the input is taken from the user, the program creates a table which summarizes the results of the items.
