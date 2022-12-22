@@ -1,4 +1,4 @@
-# Driver: Anshul Raghuvanshi (U69656337), Navigator: Christian Taylor (U75799592)
+# Driver: Anshul Raghuvanshi, Navigator: Christian Taylor
 # This program is intended to convert a user-entered sentence to morse code using the tuple.
 
 x = input('Enter a sentence to be converted to morse code: ')
