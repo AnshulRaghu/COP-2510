@@ -1,5 +1,5 @@
-# Driver: Christian Taylor          U-Number: U75799592     Participation Percentage: 50%
-# Navigator: Anshul Raghuvanshi     U-Number: U69656337     Participation Percentage: 50%
+# Driver: Christian Taylor
+# Navigator: Anshul Raghuvanshi
 
 # This program allows us to calculate the amount of the tip given the tip amount
 # percentage and the subtotal.
