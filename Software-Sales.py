@@ -1,4 +1,4 @@
-# Driver: Anshul Raghuvanshi (U69656337), Navigator: Christian Taylor (U75799592)
+# Driver: Anshul Raghuvanshi, Navigator: Christian Taylor
 # This program is intended to calculate the final price after discount of the packages bought by using the user's input.
 # We calculated the discount by multiplying 99 by the number of packages the user entered and the discounted percent
 # We calculated the finalPrice by subtracting the non-discounted total price from the discount amount.
