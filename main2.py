@@ -1,4 +1,4 @@
-# Driver: Anshul Raghuvanshi (U69656337), Navigator: Christian Taylor (U75799592)
+# Driver: Anshul Raghuvanshi, Navigator: Christian Taylor
 # This program is intended to calculate the runway length for an airplane's takeoff.
 # We calculated this by the following formula: (x^2)/2a
 
