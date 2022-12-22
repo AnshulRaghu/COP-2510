@@ -1,5 +1,5 @@
-# Driver: Christian Taylor          U-Number: U75799592       Participation percentage: 50%
-# Navigator: Anshul Raghuvanshi     U-Number: U69656337       Participation percentage: 50%
+# Driver: Christian Taylor
+# Navigator: Anshul Raghuvanshi
 # This program was designed to simulate the tortoise vs hare race.
 
 import random
