@@ -1,4 +1,4 @@
-# Driver: Christian Taylor (U75799592), Navigator: Anshul Raghuvanshi (U69656337)
+# Driver: Christian Taylor, Navigator: Anshul Raghuvanshi
 # This program is intended to play a series of games of rock, paper, scissor, lizard, spock with the user.
 # We made a list of the 5 choices that are available.
 # We made two functions:
