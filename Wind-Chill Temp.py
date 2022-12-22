@@ -1,4 +1,4 @@
-# Driver: Anshul Raghuvanshi (U69656337), Navigator: Christian Taylor (U75799592)
+# Driver: Anshul Raghuvanshi, Navigator: Christian Taylor
 # This program is intended to calculate the wind-chill temperature using the user's input.
 # We calculated this by the following formula: (35.74 + (0.6215t) - (35.75 * math.pow(v, 0.16)) + (0.4275t * math.pow(v, 0.16))
 
