@@ -1,1 +1,1 @@
-# COP 2510
+# COP 2510 Projects
