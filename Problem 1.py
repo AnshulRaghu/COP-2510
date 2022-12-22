@@ -1,5 +1,5 @@
-# Driver: Anshul Raghuvanshi           U-Number: U75799592
-# Navigator: Christian Taylor          U-Number: U69656337
+# Driver: Anshul Raghuvanshi
+# Navigator: Christian Taylor
 # This program was designed to read a file and then remove the first letter of each word, put it in the back of the word and add 'ay'.
 
 filename = input('Enter the name of the file (with .txt extension): ')
